@@ -4,7 +4,7 @@
 import ReactDom from 'react-dom'
 
 function Greeting() {
-  return <h4>Hello, this is Stephen</h4>
+  return <h4>Hello, this is Steve</h4>
 }
 
 ReactDom.render(<Greeting/>, document.getElementById('root'))
